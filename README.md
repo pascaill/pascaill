@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @pascaill , I'm also a @pascaill on Twitter.
-- 👀 I’m interested in making projects based on Java and Python to support my learning process as 
-- 🌱 I’m currently learning Java and Python. 
+- 👀 I’m interested in making projects based on **ReactJS** and **NodeJS** to support my learning process as 
+- 🌱 I’m interested in Frontend and Backend Development.
+- ✨ Programming Languages I also familiar with are: Java, R, and Python. 
 - 📫 Reach me and throw me jokes on Twitter @pascaill
 
 <!---
